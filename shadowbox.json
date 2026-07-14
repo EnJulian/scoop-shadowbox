@@ -1,12 +1,12 @@
 {
-    "version": "1.4.2",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/EnJulian/shadowbox/releases/download/v1.4.2/shadowbox-windows-amd64.zip",
+            "url": "https://github.com/EnJulian/shadowbox/releases/download/v1.5.0/shadowbox-windows-amd64.zip",
             "bin": [
                 "shadowbox.exe"
             ],
-            "hash": "eb6547bf8f64453da30ba21f95a73cf12f4d216cad8b59fa1f07990c78e792c1"
+            "hash": "0cb507e6c6e3996caf9431bd3eb2741aca80baefdc5bb414e3c043f938a74cb4"
         }
     },
     "homepage": "https://github.com/EnJulian/shadowbox",
